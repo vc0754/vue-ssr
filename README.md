@@ -2,7 +2,7 @@
 
 基于 Vue 的 SSR 构建
 
-![Vue-SSR]('https://cloud.githubusercontent.com/assets/499550/17607895/786a415a-5fee-11e6-9c11-45a2cfdf085c.png')
+![Vue-SSR](https://github.com/vc0754/vue-ssr/blob/master/public/vue-ssr.png)
 
 ## 创建与安装
 ```
